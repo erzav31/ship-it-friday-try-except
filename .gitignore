@@ -1,0 +1,8 @@
+node_modules/
+output/
+kit/
+kit.zip
+kit.tar.gz
+comp-api.json
+transcripts.tar.gz
+REPORT.md
